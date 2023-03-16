@@ -2,9 +2,10 @@
 [![4kangjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=4kangjc&show_icons=true&theme=radical)](https://github.com/4kangjc/4kangjc)
 
 Aliyun is a piece of shit and has no respect for people at all. Here are some of the disgusting things they have done.  
-[N1](https://www.nowcoder.com/discuss/857696)  
-[N2](https://www.nowcoder.com/feed/main/detail/94bfdf8cfa05467e98d143ff36ecacad)  
-[N3](https://www.nowcoder.com/discuss/1047155)  
+[N1](https://www.nowcoder.com/feed/main/detail/6ddedf89ef9f4298b563c7729a0b2978)  
+[N2](https://www.nowcoder.com/discuss/857696)  
+[N3](https://www.nowcoder.com/feed/main/detail/94bfdf8cfa05467e98d143ff36ecacad)  
+[N4](https://www.nowcoder.com/discuss/1047155)  
 
 <!--
 **4kangjc/4kangjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
