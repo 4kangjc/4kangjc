@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![4kangjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=4kangjc&show_icons=true&theme=radical)](https://github.com/4kangjc/4kangjc)
+[![4kangjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=4kangjc&show_icons=true&theme=transparent)](https://github.com/4kangjc/4kangjc)
 
-Never give up!
+I'm an ordinary person.
 
 <!--
 **4kangjc/4kangjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
